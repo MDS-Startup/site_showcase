@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@site.mydigitalstartup.fr:
+  ssh: vagrant:site.mydigitalstartup.fr:/var/www/html
